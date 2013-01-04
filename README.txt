@@ -1,5 +1,5 @@
 HauntedPumpkin
-An arduino-controlled haunted pumpkin
+An arduino-controlled haunted pumpkin. Inspired by Matt Richardson's Pimp Your Pumpkin project: https://github.com/mrichardson23/PimpYourPumpkin
 
 Overview: An arduino sketch that senses someone approaching and changes from simulated candle flicker to red & plays a scary voice that says "I see you."
 
