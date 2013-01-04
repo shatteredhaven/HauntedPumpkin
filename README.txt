@@ -5,7 +5,7 @@ Overview: An arduino sketch that senses someone approaching and changes from sim
 
 Files Used:
 
-- damellis-PCM library from: http://hlt.media.mit.edu/?p=1963). Rename this to PCM.
+- damellis-PCM library from: http://hlt.media.mit.edu/?p=1963. Rename this to PCM.
 - EncodeAudio-windows from: http://hlt.media.mit.edu/?p=1963
 - ultrasonic library from: http://letsmakerobots.com/node/30209 -- NOTE: The library included in this github has been updated to for arduino 1.0
 - HauntedPumpkin.ino
