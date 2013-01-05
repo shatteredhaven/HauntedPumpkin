@@ -1,0 +1,3 @@
+[submodule "PimpYourPumpkin"]
+	path = PimpYourPumpkin
+	url = git://github.com/mrichardson23/PimpYourPumpkin.git
